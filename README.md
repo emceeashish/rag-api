@@ -1,8 +1,8 @@
 # RAG API
 
-Backend-only RAG service with FAISS retrieval, OpenAI generation, streaming, and latency profiling.
+Backend only RAG service with FAISS retrieval, OpenAI generation, streaming, and latency profiling.
 
-Retrieval-Augmented Generation (RAG) backend built with FastAPI, FAISS, sentence-transformers, and OpenAI.
+Retrieval Augmented Generation (RAG) backend built with FastAPI, FAISS, sentence transformers, and OpenAI.
 
 ## Setup
 
